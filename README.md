@@ -1,1 +1,1 @@
-# dior-landing-page
+# curology-landing-page
